@@ -1,0 +1,11 @@
+pandoc: '2.2'
+pkgdown: 1.1.0.9000
+pkgdown_sha: 88eacb1caeeb9bfa4e929681917576579e06bd7f
+articles:
+  sf1: sf1.html
+  sf2: sf2.html
+  sf3: sf3.html
+  sf4: sf4.html
+  sf5: sf5.html
+  sf6: sf6.html
+
